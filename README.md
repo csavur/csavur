@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Celal
+
+A researcher engineer working in field of **ML/LLM** and **Human Robot Collaboration**.
+
+
+### Connect with Me
+<a href="https://www.linkedin.com/in/csavur" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?logo=linkedin" /></a>
+<a href="https://scholar.google.com/citations?user=uvBhKTMAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+
 
 <!--
 **csavur/csavur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
