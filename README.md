@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Celal
 
-A researcher engineer working in field of **ML/LLM** and **Human Robot Collaboration**.
+A researcher engineer working in field of **AI/ML** and **Human Robot Collaboration**.
 
 
 ### Connect with Me
